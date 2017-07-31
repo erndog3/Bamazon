@@ -1,3 +1,3 @@
 # Bamazon
 node mysql store
-![DEMO 1](https://camo.githubusercontent.com/81b724f67a8a4af16b7966b2119caa92a6e4cee6/687474703a2f2f7777772e67697068792e636f6d2f676966732f336f3676584f39746b726967416b634f624b)
+![DEMO 1](http://www.giphy.com/gifs/3oEhmOA9KdZpAbgIIU)
