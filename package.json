@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "nodejs plus mysql Amazon.com store like app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erndog3/Bamazon.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql"
+  ],
+  "author": "Erensto R Espinoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erndog3/Bamazon/issues"
+  },
+  "homepage": "https://github.com/erndog3/Bamazon#readme"
+}
